@@ -21,7 +21,13 @@ This work is submitted for the lab evaluation of the course Machine learning (UM
     - Predictions are made on the entire dataset using `predict_model`.
 4. **Results and Metrics:**
     - Performance metrics (R2, MAE, MSE,RMSE,MAPE) are collected for each model using PyCaret's `pull` function.
+  
+## Detailed Result Analysis
+![Screenshot 2024-12-20 192506](https://github.com/user-attachments/assets/7b0bc4ba-10b0-45dc-86ef-f9049369a4fe)
+
 
 ## Results
 
 The best-performing model is `Extra Trees Regressor` with an R-squared value of `0.8537`. 
+
+
